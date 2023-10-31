@@ -1,0 +1,444 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    margin: 0;
+    margin-top: auto;
+}
+.bg1{
+    background-image:url('./images/bg1.avif') ;
+    background-repeat: no-repeat;
+    background-size:cover;
+    width:auto;
+    height: 1000px;
+    border: 0px;
+   
+}
+
+.bg1 li{
+    display: inline;
+    padding: 5px;
+    font-size: large;  
+    
+}   
+
+.bg1 ol{
+    margin-left: 600px;
+    padding-top: 5px;
+    text-align: right;
+    height: 30px;
+    /*width: auto;*/
+    padding-right: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    overflow: hidden;
+    position: fixed;
+    top:0;
+    width: 100;
+    
+    
+}
+
+.intro{
+    /*text-align:center;*/
+    margin-left: 200px;
+    margin-top: 75px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.Ih1{
+    font-weight: bolder;
+    font-size: 25px;
+
+}
+button{
+    margin-left: 200px;
+    border-radius: 20px;
+    background-color: transparent;
+    height: 40px;
+    width: 200px;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: lighter;
+
+}
+a{
+    text-decoration: none;
+
+/*About me CSS*/
+
+}
+.bg2{
+    margin-top: 0;
+    background-color: rgb(229, 237, 242);
+    width:auto;
+    height: 845px;
+    
+}
+.bg2 h3{
+    margin-left: 75%;
+    margin-top: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    /*color: rgb(133, 89, 33);*/
+    color: transparent;
+    
+}
+
+.bg2 h2{
+    margin-left: 65%;
+    margin-top: 75px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 35px;
+
+}
+
+.bg2 p{
+    margin: left 200px;
+    margin-right: 200px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.5;
+}
+.bg2 table{
+    margin-top: 20px;
+}
+.bg2 img{
+    margin-left: 200px;
+    margin-right: 200px;
+     
+}
+
+/*Skill*/
+
+.bg3{
+    margin-top: 0px;
+    background-color: rgb(231, 189, 223);
+    background-image: url(images/bg3.avif);
+    width:auto;
+    height: 845px;
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.bg3 h1{
+    margin-top: 0px;
+    margin-left: 22%;
+    margin-top: 40px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 35px;
+    
+}
+.bg3 ol,ul{
+    margin-left: 50px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    line-height: 1.5;
+   
+}
+
+.bg4{
+    margin-top: 0;
+    background-color: rgb(229, 237, 242);
+    width:auto;
+    height: 845px;
+    
+}
+.bg4 h1{
+    margin-top: 0px;
+    margin-left: 22%;
+    margin-top: 40px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 35px;
+}
+.bg4 ol,ul{
+    margin-left: 50px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    line-height: 1.5;
+    margin-top: 8px;
+   
+}
+/*.sktable{
+    background-color: #333;
+    text-transform: uppercase;
+}*/
+/*.skill h1{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}*/
+.skill h3{
+    margin: 5px;
+    font-size: 15px;
+}
+.skill{
+    /*background-color: #333;*/
+    background-color: rgb(187, 209, 223);
+    text-transform: uppercase;
+    width: 600px;
+   /* margin: 60px auto;*/
+   margin-left:20%;
+  
+    color: #1b1a1a;
+    padding: 20px;
+    box-shadow: 0 14px 28px rgb(0,0,0,0.25) , 0 10px 10px rgb(0,0,0,0.22) ;
+    
+}
+.skill li{
+    margin: 20px 0;
+    padding: 5px;
+}
+.bar{
+    background-color: #353b48;
+    display: block;
+    height: 10px;
+    border: 1px solid rgba(0,0,0,0.3);
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.12), 0 10px 10px rgba(0,0,0,0.24);
+    transition: all 0.3s cubic-bezier(.25, .8, .25, 1);
+}
+.bar :hover{
+    box-shadow: 0 14px 28px rgb(0,0,0,0.25) , 0 10px 10px rgb(0,0,0,0.22) ; 
+}
+.bar span{
+    height: 10px;
+    float: left;
+    background: linear-gradient(135deg, rgb(1, 37, 102)0%,rgb(2, 224, 202)100%);
+}
+.html{
+    width: 90%;
+    animation: html 3s;
+}
+.css{
+    width: 70%;
+    animation: css 3s;
+}
+.js{
+    width: 65%;
+    animation: js 3s;
+}
+.java{
+    width: 80%;
+    animation: java 3s;
+}
+.php{
+    width: 80%;
+    animation: php 3s;
+}
+.c{
+    width: 45%;
+    animation: c++ 3s;
+}
+.python{
+    width: 60%;
+    animation: python 3s;
+}
+@keyframes html{
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 90%;
+    }
+}
+@keyframes css{
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 70%;
+    }
+}
+@keyframes js{
+    0%{
+        width: 0%;
+    } 
+    100%{
+        width: 65%;
+    }
+}
+@keyframes php{
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 80%;
+    }
+}
+@keyframes c{
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 45%;
+    }
+}
+@keyframes java{
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 80%;
+    }
+}
+@keyframes python{
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 60%;
+    }
+}
+.bg5{
+    margin-top: 0px;
+    background-color: rgb(229, 237, 242);
+    background-image: url(images/bg5.jpg);
+    width:auto;
+    height: 845px;
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg5 ol,ul{
+    margin-left: 40px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    line-height: 1.5;
+    margin-top: 8px;
+   
+}
+.bg6{
+    margin-top: 0;
+    background-color:  rgb(229, 237, 242);
+    width:auto;
+    height: 845px;
+}
+.bg6 h1{
+    margin-top: 0px;
+    margin-left: 22%;
+   /* margin-top: 40px;*/
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 35px;
+    text-transform: uppercase;
+}
+.bg6 ol,ul,li{
+    margin-left: 50px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    line-height: 1.5;
+    margin-top: 8px;
+   
+}
+
+.bg7 {
+    margin-top: 0px;
+    background-color:  rgb(229, 237, 242);
+    background-image: url(images/bg7.avif);
+    width:auto;
+    height: 845px;
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+}    
+.bg7 h1{
+    margin-top: 0px;
+    margin-left: 22%;
+    margin-top: 40px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 35px;
+    text-transform: uppercase;
+}
+.bg7 input{
+    width:500px;
+    height: 30px;
+    border-radius: 4px;
+    margin-left: 20%;
+    margin-bottom:20px;
+
+}
+.bg7 textarea{
+    width:500px;
+    border-radius: 4px;
+    margin-left: 20%;
+
+}
+#submit{
+    width:200px;
+    height: 30px;
+    border-radius: 4px;
+    margin-right:400px;
+    margin-top: 20px;
+    background-color: rgb(147, 147, 213);
+    color: rgb(21, 20, 18);
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    cursor: pointer;
+    
+
+}
+.bg7 p{
+    margin-left: 180px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    line-height: 1.5;
+    margin-top: 8px;
+   
+}
+/*footer{
+   
+    font-size: 20px;
+    font-weight: bold;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    text-align: center; 
+    
+}*/
+
+    /* Footer Styles */
+    .footer {
+        background-color: #222;
+        color: #fff;
+        padding: 20px;
+    }
+    
+    .footer-content {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+    .footer-links a {
+        color: #fff;
+        text-decoration: none;
+        margin-right: 15px;
+        font-weight: bold;
+        padding-left: 120px;
+    }
+    
+    .footer-bottom {
+        margin-top: 15px;
+        text-align: center;
+    }
+    
+    .footer-bottom p {
+        margin: 0;
+        font-size: 14px;
+    }
