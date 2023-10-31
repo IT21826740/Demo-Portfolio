@@ -1,4 +1,25 @@
-# Portfolio
+# Open UoM Web Design for Beginners Final Project
+
+This is my final project for the "Web Design for Beginners" course at Open University of Moratuwa. It serves as a demo portfolio.
+
+## Description
+
+This project was created as part of the course, showcasing web design skills learned during the program.
+
+## Features:
+
+  - Responsive design
+  - Clean and modern design
+  - Easy to navigate
+  - Contact form
+
+## Technologies used:
+  - HTML5
+  - CSS3
+  - JavaScript
+  - Bootstrap (CSS framework)
+
+## Screenshots
 ![Screenshot (1)](https://github.com/IT21826740/Portfolio/assets/111214065/70cdc061-6fb4-4da8-8de7-ee45edadd6b3)
 ![Screenshot (2)](https://github.com/IT21826740/Portfolio/assets/111214065/9d73866e-bb2f-4d9c-bd25-9664d39e9180)
 ![Screenshot (3)](https://github.com/IT21826740/Portfolio/assets/111214065/93112d6c-52a8-4c51-a6ef-2774dc24d012)
