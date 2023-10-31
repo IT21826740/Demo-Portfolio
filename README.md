@@ -1,1 +1,9 @@
 # Portfolio
+![Screenshot (8)](https://github.com/IT21826740/Portfolio/assets/111214065/2f547c45-8248-404a-a080-e2f73a9cd468)
+![Screenshot (9)](https://github.com/IT21826740/Portfolio/assets/111214065/d1fc0bca-64ac-4a5d-b2af-55d1afbc3d26)
+![Screenshot (10)](https://github.com/IT21826740/Portfolio/assets/111214065/1848f242-7f19-41d4-a72f-a73d7dfac2b8)
+![Screenshot (11)](https://github.com/IT21826740/Portfolio/assets/111214065/d5ce6b85-9b1e-4dee-955d-ed1f8898aec0)
+![Screenshot (12)](https://github.com/IT21826740/Portfolio/assets/111214065/4dc81631-16df-4adf-9a9e-9954c8ffdcb2)
+![Screenshot (13)](https://github.com/IT21826740/Portfolio/assets/111214065/46e9e4da-70cb-484d-b2de-8c5042ba4c4d)
+![Screenshot (14)](https://github.com/IT21826740/Portfolio/assets/111214065/cf4c3905-c9da-4e3f-8fd4-6ada0e62ed4f)
+![Screenshot (15)](https://github.com/IT21826740/Portfolio/assets/111214065/f5cf5e4d-9eb8-4c95-8c86-4cac4ed0beea)
