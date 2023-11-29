@@ -28,3 +28,7 @@ This project was created as part of the course, showcasing web design skills lea
 ![Screenshot (6)](https://github.com/IT21826740/Portfolio/assets/111214065/f4cbb95e-45cd-441d-9f6c-da13b09d6488)
 ![Screenshot (7)](https://github.com/IT21826740/Portfolio/assets/111214065/2eff45f5-b477-4160-ab37-bfb53ee968cd)
 ![Screenshot (8)](https://github.com/IT21826740/Portfolio/assets/111214065/49c0ff16-c0fc-4fb0-8bb6-56ae36f12472)
+
+Clone the repository.
+   ```bash
+   git clone https://github.com/IT21826740/Demo-Portfolio.git
