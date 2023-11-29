@@ -19,9 +19,6 @@ This project was created as part of the course, showcasing web design skills lea
   - JavaScript
   - Bootstrap (CSS framework)
     
-## Clone the repository.
-
-   git clone https://github.com/IT21826740/Demo-Portfolio.git
 
 ## Screenshots
 ![Screenshot (1)](https://github.com/IT21826740/Portfolio/assets/111214065/70cdc061-6fb4-4da8-8de7-ee45edadd6b3)
