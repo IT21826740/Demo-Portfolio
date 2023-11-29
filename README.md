@@ -18,7 +18,7 @@ This project was created as part of the course, showcasing web design skills lea
   - CSS3
   - JavaScript
   - Bootstrap (CSS framework)
-
+1
 ## Screenshots
 ![Screenshot (1)](https://github.com/IT21826740/Portfolio/assets/111214065/70cdc061-6fb4-4da8-8de7-ee45edadd6b3)
 ![Screenshot (2)](https://github.com/IT21826740/Portfolio/assets/111214065/9d73866e-bb2f-4d9c-bd25-9664d39e9180)
