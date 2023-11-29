@@ -18,6 +18,10 @@ This project was created as part of the course, showcasing web design skills lea
   - CSS3
   - JavaScript
   - Bootstrap (CSS framework)
+    
+## Clone the repository.
+
+   git clone https://github.com/IT21826740/Demo-Portfolio.git
 
 ## Screenshots
 ![Screenshot (1)](https://github.com/IT21826740/Portfolio/assets/111214065/70cdc061-6fb4-4da8-8de7-ee45edadd6b3)
@@ -29,6 +33,4 @@ This project was created as part of the course, showcasing web design skills lea
 ![Screenshot (7)](https://github.com/IT21826740/Portfolio/assets/111214065/2eff45f5-b477-4160-ab37-bfb53ee968cd)
 ![Screenshot (8)](https://github.com/IT21826740/Portfolio/assets/111214065/49c0ff16-c0fc-4fb0-8bb6-56ae36f12472)
 
-Clone the repository.
-   ```bash
-   git clone https://github.com/IT21826740/Demo-Portfolio.git
+
