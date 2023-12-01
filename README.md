@@ -1,4 +1,4 @@
-# Open UoM Web Design for Beginners Final Project
+# Open UoM Web Design for Beginners Final Project.
 
 This is my final project for the "Web Design for Beginners" course at Open University of Moratuwa. It serves as a demo portfolio.
 
